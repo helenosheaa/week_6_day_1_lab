@@ -8,6 +8,15 @@ public class Calculator {
     }
 
     public int add(){ return numberone + numbertwo;}
+
+    public int subtract() { return numbertwo - numberone;
+    }
+
+    public int multiply() { return numbertwo * numberone;
+    }
+
+    public int divide() { return numbertwo / numberone;
+    }
 }
 
 
